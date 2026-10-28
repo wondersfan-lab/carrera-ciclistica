@@ -1,4 +1,4 @@
-package main.java.com.uniajc;
+package com.uniajc;
 
 public abstract class Ciclista {
     private int identificador;
