@@ -1,4 +1,4 @@
-package main.java.com.uniajc;
+package com.uniajc;
 
 public class Escalador extends Ciclista {
 
